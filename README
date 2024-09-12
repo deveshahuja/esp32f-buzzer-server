@@ -1,8 +1,0 @@
-PIN 25          BUZZER
-PIN 27          LED BLUE RED(blink)
-PIN 28          GPIO output gpio_num error
-PIN 29          GPIO output gpio_num error
-PIN 30          GPIO output gpio_num error
-PIN 31          GPIO output gpio_num error
-PIN 32          LED BLUE
-PIN 33          LED GREEN
